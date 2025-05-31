@@ -6,6 +6,6 @@ The repo for Mastering Modern Time Series Forecasting : The Complete Guide to St
 
 ![Mastering Modern Time Series Forecsting book](Book_cover.png)
 
-**My course  'Applied Conformal Prediction is now opened for enrollment on Maven 🔥🔥🔥🔥🔥 [enroll or register your interest here](https://maven.com/valeriy-manokhin/applied-conformal-prediction)
+My course  'Applied Conformal Prediction is now opened for enrollment on Maven 🔥🔥🔥🔥🔥 [enroll or register your interest here](https://maven.com/valeriy-manokhin/applied-conformal-prediction)
 
 
