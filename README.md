@@ -9,9 +9,19 @@
 
 **By Valeriy Manokhin, PhD, MBA, CQF**  
 🔥 Forecasting book that is used and trusted by data leaders in 100+ countries  
-🔗 [Buy Standard Edition – Gumroad](https://valeman.gumroad.com/l/MasteringModernTimeSeriesForecasting)  
-🔗 [Buy Pro Edition – Early Access](https://valeman.gumroad.com/l/MasteringModernTimeSeriesForecastingPro)  
+🔗 [Buy Standard Edition – Gumroad](https://valeman.gumroad.com/l/MasteringModernTimeSeriesForecasting) 
+🔗 [Buy Pro Edition – Gumroad](https://valeman.gumroad.com/l/MasteringModernTimeSeriesForecastingPro)  
 🎁 [Forecasting + Conformal Prediction Mastery Bundle](https://valeman.gumroad.com/l/Forecasting_Conformal_Prediction_Mastery_Bundle)
+
+--
+
+### 💬 Includes Exclusive Community Access
+
+All editions purchased on Gumroad include lifetime access to a **private Discord community**, where you can:
+- 💡 Connect with other professionals and readers worldwide  
+- 🧠 Join live AMA sessions with Valeriy  
+- 🎁 Receive early content, updates, tools & behind-the-scenes insights  
+- 💬 Get support, share ideas, and stay updated on all things forecasting
 
 ---
 
@@ -44,30 +54,31 @@ Most forecasting books are outdated, overly academic, or skip the messy realitie
 
 ### ✅ What You’ll Learn
 
-- Full coverage: ARIMA, XGBoost, N-BEATS, TFT, Conformal Prediction, FTSMs  
+- Full coverage: ARIMA, Exponential Smoothing, CatBoost/LightGBM/XGBoost, N-BEATS, Transformers, Conformal Prediction, FTSMs  
 - Evaluate forecastability & align accuracy with business ROI  
-- Build interpretable, uncertainty-aware systems using SHAP, CP, and attention  
+- Build interpretable, uncertainty-aware systems using Conformal Predition  
 - Real-world case studies (retail, finance, energy, etc.)  
-- Production-ready, transparent, well-documented Python code  
+- Transparent, well-documented Python code  
 
 ---
 
 ### 💡 Built for Practitioners
 
-🔑 **Forecasting models are just 5% of the system** — the rest is validation, architecture, and knowing what breaks in the real world.  
-🧠 You’ll go beyond code to understand model logic, forecastability, risk, and impact.  
-🔄 Updated continuously based on reader feedback — with lifetime access to new chapters and bonus content.  
-💬 Includes access to a private Discord community for Q&A, updates, and live events.
+🔑 **Forecasting models are only 5% of the solution.**  
+The real challenge lies in validation, system design, failure modes, and translating forecasts into decisions that matter.
+🧠 Go beyond code: master model logic, forecastability, uncertainty, and business impact.
+🔄 This book evolves with you — continuously updated based on reader feedback, with **lifetime access** to all future chapters, tools, and enhancements.
+💬 Includes **exclusive Discord access** — join live AMAs, get direct support, and connect with a global community of forecasters.
 
 ---
 
-### 🔥 Pro Edition (Early Access – $65)
+### 🔥 Pro Edition (Early Access – $65, price will rise to $150+)
 
 Includes everything above, plus:
 
 - ✅ Extended Case Studies across key industries  
 - ✅ Forecast Model Selection Toolkit (benchmarking, tuning, comparison)  
-- ✅ Premium templates, flashcards, cheat sheets  
+- ✅ Premium templates, cheat sheets  
 - ✅ Behind-the-scenes notebooks & walkthroughs  
 - ✅ Access to live AMAs with the author
 
@@ -77,21 +88,20 @@ Includes everything above, plus:
 
 ### 💸 Pricing (Effective June 16)
 
-| Edition         | Price     | Includes                                                      |
-|-----------------|-----------|---------------------------------------------------------------|
-| Standard        | $45+      | Full book + lifetime updates + Discord access                |
-| Pro (Early)     | $65       | Standard + premium tools, live sessions, bonus content       |
-| Future Price    | $80+      | Will increase as new content is added                        |
+| Edition         | Current Price     | Will Increase To | Includes                                                               |
+|-----------------|------------------|------------------|------------------------------------------------------------------------|
+| **Standard**     | **Now: $45+**     | **$80+**          | Full book, lifetime updates, and exclusive Discord community access     |
+| **Pro (Early)**  | **Now: $65**      | **$150+**         | Everything in Standard + bonus tools, premium templates, and live AMAs |
 
-If you find value in it, you're welcome to pay what it’s worth to you ❤️.
+💡 Pay what it’s worth to you — every contribution supports ongoing development ❤️
 
 ---
 
 ### ✍️ About the Author
 
-Dr. **Valeriy Manokhin** is a recognized forecasting expert and ML researcher with a PhD in machine learning, an MBA, and CQF certification. He’s built forecasting systems for Stanley Black & Decker, GfK, PwC, and more, and has outperformed top consulting firms in competitive forecasting tenders.
+Dr. **Valeriy Manokhin** is a recognized data science, machine learning and forecasting expert and ML researcher with a PhD in machine learning, an MBA, and CQF certification. He’s built forecasting systems for global multinationals like Stanley Black & Decker, GfK,and more, and has outperformed top consulting firms in competitive forecasting tenders.
 
-His work is used by teams at Amazon, Meta, BlackRock, Nike, and taught in institutions like UChicago, DTU, and UBC. His GitHub repo “Awesome Conformal Prediction” has over 3,300 stars and his research is cited in top ML journals.
+His GitHub repo “Awesome Conformal Prediction” has reached thousands of Github stars and his research is cited in top ML journals.
 
 ---
 
@@ -105,10 +115,10 @@ A cohort-based program with hands-on projects, expert feedback, and global peers
 
 ### 📦 What You Get
 
-- 📥 Instant digital access (PDF, EPUB, MOBI)  
+- 📥 Instant digital access (PDF)  
 - 🔄 Lifetime updates (new chapters, tools, fixes)  
 - 💬 Private Discord access  
-- 📜 Certificate of Completion (Pro only)  
+- 📜 Certificate of Completion (Maven Course)  
 - 🧰 Bonus tools (Pro only)
 
 ---
