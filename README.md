@@ -29,6 +29,12 @@ Both courses include:
 
 ## 💎 What Makes This Book Different
 
+Most forecasting books fall short — they’re either outdated, overly simplistic, or skip real-world details. Some classics focus only on traditional methods, while newer ones skim the surface of modern tools like ML and deep learning.
+The result? Fragile systems that work in demos but fail in production.
+This book is different.
+Mastering Modern Time Series Forecasting is a clear, practical, and end-to-end guide to building robust forecasting systems using statistical, ML, and deep learning methods.
+Whether you're starting out or deploying models at scale, you'll get the tools, understanding, and workflows to build forecasting solutions that actually work.
+
 **Mastering Modern Time Series Forecasting** isn't just another book — it's a **practical guide** for professionals who want to deploy powerful forecasting systems that work under real-world pressure.
 
 ✅ Full coverage: ARIMA, XGBoost, N-BEATS, TFT, Conformal Prediction, FTSMs  
@@ -40,11 +46,11 @@ Both courses include:
 
 ## 🧠 What You’ll Learn
 
+- Forecastability of time series
 - Forecast evaluation, validation, metrics that matter
 - Feature engineering and model tuning
 - Deep learning for time series (Transformers, N-BEATS)
-- Probabilistic forecasting, conformal prediction, SHAP
-- Production deployment workflows
+- Probabilistic forecasting, conformal prediction
 - Real-world case studies: Retail, finance, energy
 
 ---
@@ -53,7 +59,7 @@ Both courses include:
 
 **Valeriy Manokhin**, PhD, MBA, CQF — a forecasting expert and ML researcher who has:
 
-- 🧪 Designed systems for Stanley Black & Decker, GfK, and others  
+- 🧪 Designed systems for global companies and startups: Stanley Black & Decker, GfK, and others  
 - 🥇 Beat major consultancies (like BCG) in forecasting bids  
 - 🌐 Taught professionals in 30+ countries  
 - 🧠 Published in top ML and forecasting journals  
@@ -98,5 +104,7 @@ Build systems that scale.
 Advance your skills, your models, and your career.
 
 👉 [Get the Book Now](https://valeman.gumroad.com/l/MasteringModernTimeSeriesForecasting)
+
+
 
 
