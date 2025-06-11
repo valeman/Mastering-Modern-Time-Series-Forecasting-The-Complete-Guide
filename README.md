@@ -56,7 +56,7 @@ Most forecasting books are outdated, overly academic, or skip the messy realitie
 
 - Full coverage: ARIMA, Exponential Smoothing, CatBoost/LightGBM/XGBoost, N-BEATS, Transformers, Conformal Prediction, FTSMs  
 - Evaluate forecastability & align accuracy with business ROI  
-- Build interpretable, uncertainty-aware systems using Conformal Predition  
+- Build interpretable, uncertainty-aware systems using Conformal Prediction  
 - Real-world case studies (retail, finance, energy, etc.)  
 - Transparent, well-documented Python code  
 
@@ -97,9 +97,12 @@ Includes everything above, plus:
 
 ---
 
+👉 [Buy Now on Gumroad](https://valeman.gumroad.com/l/MasteringModernTimeSeriesForecasting)
+---
+
 ### ✍️ About the Author
 
-Dr. **Valeriy Manokhin** is a recognized data science, machine learning and forecasting expert and ML researcher with a PhD in machine learning, an MBA, and CQF certification. He’s built forecasting systems for global multinationals like Stanley Black & Decker, GfK,and more, and has outperformed top consulting firms in competitive forecasting tenders.
+Dr. **Valeriy Manokhin** is a recognized data science, machine learning and forecasting expert and ML researcher with a PhD in machine learning, an MBA, and CQF certification. He’s built forecasting systems for global multinationals like Stanley Black & Decker, GfK and others, and has outperformed top consulting firms in competitive forecasting tenders.
 
 His GitHub repo “Awesome Conformal Prediction” has reached thousands of Github stars and his research is cited in top ML journals.
 
@@ -125,8 +128,6 @@ A cohort-based program with hands-on projects, expert feedback, and global peers
 
 📘 **Master forecasting from stats to transformers.**  
 Whether you're in retail, energy, finance, or research — this is your blueprint to modern time series forecasting.
-
-👉 [Buy Now on Gumroad](https://valeman.gumroad.com/l/MasteringModernTimeSeriesForecasting)
 
 
 
